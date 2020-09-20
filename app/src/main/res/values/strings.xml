@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor arcu eget laoreet ullamcorper. Sed sit amet pretium ligula. Proin id sem eget ligula viverra finibus. Sed porttitor sapien enim, vel vulputate eros consectetur ac. Mauris tempor erat ut rutrum scelerisque. Sed eget neque lacus. In dui purus, maximus in scelerisque eu, viverra a orci. Donec at magna ac ante ornare luctus. Sed condimentum risus ligula, non maximus risus iaculis consequat.</string>
+    <string name="to_second">to second</string>
+    <string name="to_first">to first</string>
+    <string name="to_third">to third</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_3">Task 3</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_4">Task 4</string>
+    <string name="task_5">Task 5</string>
+</resources>
